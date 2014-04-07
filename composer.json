@@ -1,7 +1,7 @@
 {
-    "name": "ronster/salesforce",
+    "name": "kilrizzy/salesforce",
     "type": "library",
-    "description": "A Laravel 4 package for the PHPForce Salesforce library",
+    "description": "A Laravel 4 package for the PHPForce Salesforce library - Updated for Laravel 4.1",
     "keywords": [ "salesforce", "force.com", "crm", "soap", "laravel", "laravel4" ],
     "authors": [
         {
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "4.0.*",
+        "illuminate/support": "4.1.*",
         "phpforce/soap-client": "*"
     },
     "suggest": {
